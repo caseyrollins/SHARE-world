@@ -5,4 +5,5 @@
  - `python -m SimpleHTTPServer 8000`
  - visit localhost:8000
  
-  
+ 
+ ![share-world](https://github.com/caseyrollins/SHARE-world/blob/master/example.gif)
